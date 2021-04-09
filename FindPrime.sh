@@ -61,3 +61,7 @@ function FindPrime {
 	
 }
 
+FindPrime 2 2323371
+FindPrime 2 222324
+FindPrime 68271982
+FindPrime 3 2368224
